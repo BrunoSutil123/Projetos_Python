@@ -1,2 +1,2 @@
-# python-do-zero
-Estudos de Python do zero com versionamento em Git
+# Projetos_Python
+Projetos para estudo e prática de Python do zero com versionamento em Git
